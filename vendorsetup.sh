@@ -38,5 +38,8 @@ add_lunch_combo pa_karin_windy-userdebug
 add_lunch_combo pa_sumire-userdebug
 add_lunch_combo pa_suzuran-userdebug
 
+# Sony Loire Platform
+add_lunch_combo pa_suzu-userdebug
+
 # CAF
 add_lunch_combo pa_dragon-userdebug
